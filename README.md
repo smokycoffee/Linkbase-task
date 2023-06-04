@@ -3,6 +3,8 @@
 ## Linkbase mini coding challenge
 <!-- ![PurpleBarVersion](https://github.com/smokycoffee/Linkbase-task/blob/main/WithPurpleBar.gif) -->
 
+You can copy paste the code in the respective file in App.js and run locally to see the different UI's
+
 ### Some challenges faced. 
 Making the UI was pretty straightforward. Theres a file called SwiperVersion.js. That was the initial UI i tried out but i tried to re-create it with Jan's vision where i can only swipe with a navigation bar at the bottom of the screen.
 
