@@ -8,7 +8,7 @@ You can copy paste the code in the respective file in App.js and run locally to 
 ### Some challenges faced. 
 Making the UI was pretty straightforward. Theres a file called SwiperVersion.js. That was the initial UI i tried out but i tried to re-create it with Jan's vision where i can only swipe with a navigation bar at the bottom of the screen.
 
-Which is the PurpleBarVersion. The issue I face with that is cuz i'm loading the current index or url one at a time. so everytime i swipe left or right with the purple container, i reload the webpage to its current index. wasn't sure if that's what the task intended so i have another version.
+Which is the PurpleBarVersion. The issue I faced with that is cuz i'm loading the current index or url one at a time. so everytime i swipe left or right with the purple container, i reload the webpage to its current index. wasn't sure if that's what the task intended so i have another version.
 
 The FlatlistVersion fixes the WebView loading one at a time as i'm pre-loading them in a flatlist and when i start traversing all the URls are loaded so there's no loading time. but the con is flatlist swiping cant be limited to the bottom area.
 
