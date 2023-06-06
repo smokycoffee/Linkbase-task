@@ -5,6 +5,18 @@
 
 You can copy paste the code in the respective file in App.js and run locally to see the different UI's
 
+### Expo links 
+iOS 
+
+#### exp://u.expo.dev/update/7767f93f-453b-4c19-a491-98d0a47898c9 - purple bar
+#### exp://u.expo.dev/update/2592351b-0a2c-4b00-a77f-3168389a87d0 - alternative
+
+Android
+
+#### exp://u.expo.dev/update/abeb6331-e374-4839-a74f-21b4d8bd43a3 - purple bar
+#### exp://u.expo.dev/update/ec669f31-9d2b-4068-9b9b-e48ff06c1b6b - alternative
+
+
 ### Some challenges faced. 
 Making the UI was pretty straightforward. Theres a file called SwiperVersion.js. That was the initial UI i tried out but i tried to re-create it with Jan's vision where i can only swipe with a navigation bar at the bottom of the screen.
 
